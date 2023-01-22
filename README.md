@@ -4,9 +4,9 @@
 
 ### Import DB:
 
-1. Log in MySQL
-2. ```CREATE DATABASE SISTEMA_LOJA;```
-3. Exit MySQL
+1. ```$ mysql -u root -p```
+2. ```mysql> CREATE DATABASE SISTEMA_LOJA;```
+3. ```mysql> quit```
 4. ```$ mysql -u root -p SISTEMA_LOJA < SISTEMA_LOJA.sql```
 
 ### Execute:
